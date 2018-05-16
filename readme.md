@@ -105,4 +105,4 @@ Además de encontrar el error de escritura de código, escribe el código nec
   <!DOCTYPE html> <html> <head>     <meta http-equiv="X-UA-Compatible" content="IE=edge">     <title></title> <body>     <meta charset="utf-8">     <link rel="stylesheet" href="">     <h1> Hola </h2>         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet voluptate volu ptas odit, sapiente soluta consectetur consequuntur ex est dolores laboriosam repudia ndae unde repellat velit quo voluptatibus consequatur perferendis, tempore sunt!</p>     <a href="desafiolatam.com" ><img alt="logo.png"> </a>     <p>         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste ex, enim ipsum  sequi. Dignissimos libero unde repellendus fugit quidem asperiores, veritatis aliqui d vel, a eveniet praesentium labore quia dolor, accusamus?     </p> </body> </head><html>
 ~~~
 
-***
+***# Primera-clase-presencial
